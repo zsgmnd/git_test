@@ -1,3 +1,4 @@
 write in blabla on local
 I'm doing update in GITHUB that needs to be synchronized with local
 test fetch
+test fetch2
